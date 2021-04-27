@@ -9,7 +9,7 @@
 
 .wrapper-flex {
   display: flex;
-  margin-right: 24px;
+  /*margin-right: 24px;*/
   flex-direction: row;
   flex-wrap: wrap;
   /*justify-content: flex-end;*/
